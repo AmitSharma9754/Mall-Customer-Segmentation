@@ -1,4 +1,4 @@
-# Customer Segmentation Using Clustering
+# Mall Customer Segmentation Using Clustering
 
 *A Machine Learning-Based Customer Segmentation System*
 
