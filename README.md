@@ -242,7 +242,6 @@ The application will display
 ### Customer Prediction 
 
 ![Prediction](https://github.com/user-attachments/assets/57ba5418-c639-4c2c-a0f4-03dee8b25596
-
 )
 
 ---
@@ -250,7 +249,6 @@ The application will display
 ### Cluster Visualization
 
 ![Dashboard](https://github.com/user-attachments/assets/86fb42db-5072-429e-b694-47a319ce61cb
-
 )
 
 ---
@@ -258,7 +256,6 @@ The application will display
 ### Model Performance Metrics
 
 ![Model Metrics](https://github.com/user-attachments/assets/c86a157e-1a3c-448a-8765-0d07d1b11acb
-
 )
 
 ---
@@ -266,7 +263,6 @@ The application will display
 ### Developer & Info
 
 ![Developer & Info](https://github.com/user-attachments/assets/c0085f69-8e94-4f06-863e-d923cb01dd5c
-
 )
 
 
