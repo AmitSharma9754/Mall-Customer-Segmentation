@@ -185,15 +185,6 @@ These metrics were used to determine the optimal number of clusters and evaluate
 
 ---
 
-# Data Visualizations Included
-
-* Customer Distribution
-* Income vs Spending Scatter Plot
-* Cluster Visualization
-* Elbow Method Graph
-* Customer Segment Analysis
-
----
 
 # How to Use
 
@@ -284,21 +275,6 @@ The application will display
 This project is developed strictly for educational and learning purposes.
 
 The predicted customer segments are generated using an unsupervised machine learning algorithm and should be considered analytical insights rather than definitive business decisions.
-
----
-
-# Contribution
-
-You can contribute by:
-
-* Improving clustering performance
-* Enhancing UI
-* Adding more visualizations
-* Improving business insights
-* Adding new clustering algorithms
-* Fixing bugs
-
-Pull requests are welcome.
 
 ---
 
